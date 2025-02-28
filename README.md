@@ -12,26 +12,6 @@ Per eseguire il notebook, assicurati di avere installato **Python 3.x** e le seg
 pip install pandas
 pip install numpy
 ```
-
----
-
-## 🚀 Come utilizzare il notebook
-
-1. **Clona il repository:**
-
-   ```bash
-   git clone https://github.com/TUO-USERNAME/NOME-REPOSITORY.git
-   cd NOME-REPOSITORY
-   ```
-
-2. **Avvia Jupyter Notebook:**
-
-   ```bash
-   jupyter notebook
-   ```
-
-3. **Apri il file** `Il_tesoro_del_titanic.ipynb` e esegui le celle per esplorare i dati.
-
 ---
 
 ## 📊 Funzionalità principali
